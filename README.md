@@ -5,4 +5,3 @@ Tento repozitár obsahuje návrh simulácie robotizovanej linky pomocou vývojov
 ![Alt text](/docs/Video_Moment.jpg?raw=true "Optional Title")
 
 
-![Alt text](/docs/Video_Moment.jpg?raw=true "Optional Title")
